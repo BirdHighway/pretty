@@ -30,7 +30,7 @@ Output:
 git clone https://github.com/BirdHighway/pretty.git
 
 # make the file executable
-chmod u+x pretty-json
+chmod +x pretty-json
 
 # copy the file "pretty-json" to a directory in your $PATH
 # some directories will require this copy command be run with sudo
