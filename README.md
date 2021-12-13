@@ -44,3 +44,9 @@ chmod u+x show-my-path.sh
 ./show-my-path.sh
 
 ```
+
+## Simple Install
+``` sh
+# grab script with curl, save to path, modify to make executable
+sudo curl --silent -o /usr/bin/pretty-json https://raw.githubusercontent.com/BirdHighway/pretty/main/pretty-json && sudo chmod +x /usr/bin/pretty-json
+```
