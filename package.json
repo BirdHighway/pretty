@@ -1,0 +1,11 @@
+{
+  "name": "json-formatter",
+  "version": "1.0.0",
+  "description": "Format JSON on command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
